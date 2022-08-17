@@ -7,6 +7,10 @@ If you look at the different ways to look at the project, I have decided to spli
 # Project and repository context and how they are integrated with diagram
 We will explain with a diagram a bit down, but we will have 1 main project with the 5 repositories linked to it separately, so we can work on different repositories at the same time. It makes the planning and execution a lot easier.
 
+A project is an adaptable spreadsheet that integrates with your issues and pull requests on GitHub to help you plan and track your work effectively. You can create and customize multiple views by filtering, sorting, grouping your issues and pull requests, adding custom fields to track metadata specific to your team, and visualize work with configurable charts. Rather than enforcing a specific methodology, a project provides flexible features you can customize to your team’s needs and processes. See full post: https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects
+
+A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets -- anything your project needs. Often, repositories include a README file, a file with information about your project. README files are written in the plain text Markdown language. You can use this cheat sheet to get started with Markdown syntax. GitHub lets you add a README file at the same time you create your new repository. GitHub also offers other common options such as a license file, but you do not have to select any of them now. See full post: https://docs.github.com/en/get-started/quickstart/hello-world
+
 # Branching Strategy with diagram
 When we look at we can look at all 5 projects, we will have one main project with all the Mile Stones and tasks that will be linked to 4 different repositories and the 5 repositories will be split entirely from each other, we will fork a repository of the similarities are the same and we can save time. Please see the image below.
 
