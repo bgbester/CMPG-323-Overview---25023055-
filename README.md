@@ -18,7 +18,12 @@ When we look at we can look at all 5 projects, we will have one main project wit
 
 # Gitignore
 We will use 1 single file per repository to save all the password information but will upload a dummy file so that anyone can change the password and username then everything will start working. The file will be called Autentication_Share, we will save all our details in the real Authentication file, but will not share it on Github, thus all the user has to do is rename the Authentication_Share file to the original name and everything should start working.
+
 # Storage of credentials and sensitive information
 We will store our authentication details in a text file, for now, we may move it to a database with all the details.
+
+# Referencing used information
+All the info I get from any 3rd parties will be referenced in the text and the links can be found in my referencing document found at CMPG-323-Overview-25023055/Referencing Document
+ 
 
 BG Bester 25023055
